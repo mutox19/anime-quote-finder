@@ -1,0 +1,39 @@
+.wrapper {
+  margin: 0;
+  padding: 20px;
+}
+Form .search-text{
+    margin-bottom: 12px;
+    margin-left: 12px;
+}
+Form .btn-search {
+    margin-left: 12px;
+}
+.btn-primary {
+    color: #000;
+    background-color: #2beb11;
+    border-color: #00ff00;
+}
+.btn-getrandom, .btn-gettenrandom{
+margin: 0px auto;
+padding: 12px;
+margin-bottom: 10px;
+color: rebeccapurple;
+}
+Button {
+  letter-spacing: 2px;
+  display: grid;
+  grid-auto-flow: column;
+  grid-column-gap: 10px;
+  
+  margin-left: 12px;
+}
+.jumbotron-container{
+    padding: 20px;
+background: linear-gradient(to bottom right, rgb(17, 17, 17) , rgb(85, 85, 94));
+margin-top: 12px;
+}
+.card-item{
+    background: linear-gradient(to right, rgb(12, 20, 236) , rgb(243, 91, 3));
+    color: whitesmoke;
+}
